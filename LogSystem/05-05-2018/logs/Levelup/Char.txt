@@ -1,0 +1,9 @@
+[05-05-2018][04:00:53]Reached level 2 on MapID 40000.
+[05-05-2018][04:01:29]Reached level 3 on MapID 40000.
+[05-05-2018][04:01:30]Reached level 4 on MapID 40000.
+[05-05-2018][04:01:31]Reached level 5 on MapID 40000.
+[05-05-2018][04:01:42]Reached level 6 on MapID 40000.
+[05-05-2018][04:02:04]Reached level 7 on MapID 40000.
+[05-05-2018][04:02:15]Reached level 8 on MapID 40000.
+[05-05-2018][04:02:18]Reached level 9 on MapID 40000.
+[05-05-2018][04:02:30]Reached level 10 on MapID 40000.

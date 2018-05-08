@@ -1,0 +1,10 @@
+[05-07-2018][01:07:27]Reached level 12 on MapID 102000000.
+[05-07-2018][01:07:48]Reached level 13 on MapID 102000000.
+[05-07-2018][01:08:03]Reached level 14 on MapID 102000003.
+[05-07-2018][01:11:02]Reached level 33 on MapID 102000000.
+[05-07-2018][01:15:34]Reached level 76 on MapID 102000000.
+[05-07-2018][01:21:26]Reached level 102 on MapID 102000000.
+[05-07-2018][01:21:29]Reached level 100 on MapID 102000000.
+[05-07-2018][01:21:31]Reached level 99 on MapID 102000000.
+[05-07-2018][01:21:49]Reached level 30 on MapID 102000000.
+[05-07-2018][01:21:57]Reached level 103 on MapID 102000000.

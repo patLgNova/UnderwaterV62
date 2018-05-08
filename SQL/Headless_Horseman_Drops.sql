@@ -1,0 +1,12 @@
+﻿INSERT INTO monsterdrops (`monsterid`,`itemid`,`chance`) VALUES ('9400549','2020014','500');
+INSERT INTO monsterdrops (`monsterid`,`itemid`,`chance`) VALUES ('9400549','1452015','2000');
+INSERT INTO monsterdrops (`monsterid`,`itemid`,`chance`) VALUES ('9400549','2002023','500');
+INSERT INTO monsterdrops (`monsterid`,`itemid`,`chance`) VALUES ('9400549','1402016','2000');
+INSERT INTO monsterdrops (`monsterid`,`itemid`,`chance`) VALUES ('9400549','2040407','3000');
+INSERT INTO monsterdrops (`monsterid`,`itemid`,`chance`) VALUES ('9400549','2022117','5000');
+INSERT INTO monsterdrops (`monsterid`,`itemid`,`chance`) VALUES ('9400549','2022182','500');
+INSERT INTO monsterdrops (`monsterid`,`itemid`,`chance`) VALUES ('9400549','2040011','1000');
+INSERT INTO monsterdrops (`monsterid`,`itemid`,`chance`) VALUES ('9400549','2002025','100');
+INSERT INTO monsterdrops (`monsterid`,`itemid`,`chance`) VALUES ('9400549','1472033','2000');
+INSERT INTO monsterdrops (`monsterid`,`itemid`,`chance`) VALUES ('9400549','1372009','2000');
+INSERT INTO monsterdrops (`monsterid`,`itemid`,`chance`) VALUES ('9400549','2002024','500');
