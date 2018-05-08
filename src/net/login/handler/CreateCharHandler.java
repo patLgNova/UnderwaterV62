@@ -43,7 +43,7 @@ public class CreateCharHandler extends AbstractMaplePacketHandler {
         newchar.setRemainingAp(9);
         newchar.setName(name, false);
         newchar.setSkinColor(MapleSkinColor.getById(skinColor));
-        newchar.setGM(5);
+        newchar.setGM(3);
 
         MapleInventory equip = newchar.getInventory(MapleInventoryType.EQUIPPED);
         IItem eq_top = MapleItemInformationProvider.getInstance().getEquipById(top);
